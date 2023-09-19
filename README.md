@@ -166,16 +166,16 @@ export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 
 ## Save pass:
 
-UvQB2z6O93e1aHXkyVx1Cu1g96a56X1EyonwT9uJCB+ACRA9I60A
+oQPM14nqHS8X1PVNE5BjNiHIDimFalCMeiHOc9BHBx+ACRDbaPpw
 
-
+chestinfectionapp
 ## Run from terminal:
 
-docker build -t chickenclassapp.azurecr.io/chicken:latest .
+docker build -t chestinfectionapp.azurecr.io/chest:latest .
 
-docker login chickenclassapp.azurecr.io
+docker login chestinfectionapp.azurecr.io
 
-docker push chickenclassapp.azurecr.io/chicken:latest
+docker push chestinfectionapp.azurecr.io/chest:latest
 
 
 ## Deployment Steps:
