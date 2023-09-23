@@ -159,8 +159,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 artifacts/*
-<<<<<<< HEAD
-workflows/
-=======
 
->>>>>>> 26ec2d9da4df8d252c82c47fbca0d7c7589e37b8
