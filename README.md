@@ -129,7 +129,7 @@ export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 	
 	#optinal
 
-	sudo apt-get update -y
+	sudo apt-get update -y 
 
 	sudo apt-get upgrade
 	
